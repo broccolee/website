@@ -10,6 +10,11 @@ body{
 	text-transform:uppercase;
 	overflow-x:hidden;
 }
+.description{
+	position:fixed;
+	left:20%;
+	top:25%;
+}
 .oe_overlay{
 	background:#000;
 	opacity:0;
